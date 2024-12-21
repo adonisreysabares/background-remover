@@ -13,8 +13,8 @@ Make sure you have Python installed on your machine. You can download it from [p
    Clone this repository to your local machine:
 
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-name>
+   git clone https://github.com/adonisreysabares/background-remover
+   cd background-remover
 Create a Virtual Environment
 
 It's a good practice to create a virtual environment for your projects. You can create one using:
